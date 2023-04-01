@@ -6,7 +6,7 @@ This is a simple CLI applications built using Node.js. It allows to perform the 
 
 2. Get a contact by ID
 
-![get by ID](https://monosnap.com/file/B32KSm45bgSHebKECuVxndIWpNQlNl)
+![get by ID](https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg)
 
 3. Add a contact
 
