@@ -1,17 +1,22 @@
-This is a simple CLI applications built using Node.js. It allows to perform the following actions:
+#### This is a simple CLI applications built using Node.js. It allows to perform the following actions:
 
 1. Show all contacts
 
-![show](https://monosnap.com/file/Gd81L0cIL2hKjXMojMUgnfM5spvuVu.png)
+![list](https://user-images.githubusercontent.com/105200661/229305627-89d3c5ff-14fc-4878-ad52-8aaac4aa557f.png)
 
 2. Get a contact by ID
 
-![get by ID](https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg)
+![getByID](https://user-images.githubusercontent.com/105200661/229305625-c16ac875-105b-4778-af66-f5f6a66bee57.png)
 
 3. Add a contact
 
-![add](https://monosnap.com/file/2UJkWVfddvIzNwPZjXa6njMBQSWyKD)
+![add](https://user-images.githubusercontent.com/105200661/229305639-3bfc8cae-27d9-4790-b2ed-668c24233c5a.png)
 
 4. Remove a contact
 
-![remove](https://monosnap.com/file/n5jPpXpWCkFOlVlQeqrWlRBfwYW6Yl)
+![remove](https://user-images.githubusercontent.com/105200661/229305642-5cac5615-8be6-4bed-a643-e92fb2ce0374.png)
+
+
+
+
+
