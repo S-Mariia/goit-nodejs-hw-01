@@ -2,7 +2,7 @@ This is a simple CLI applications built using Node.js. It allows to perform the 
 
 1. Show all contacts
 
-![show](https://monosnap.com/file/Gd81L0cIL2hKjXMojMUgnfM5spvuVu)
+![show](https://monosnap.com/file/Gd81L0cIL2hKjXMojMUgnfM5spvuVu.png)
 
 2. Get a contact by ID
 
